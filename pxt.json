@@ -1,0 +1,28 @@
+{
+    "name": "arcade-tutorials",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "remember-player-name.md",
+        "story-quiz-score.md",
+        "numbers-math.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
